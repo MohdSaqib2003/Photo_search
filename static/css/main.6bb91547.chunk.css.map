@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Image.css"],"names":[],"mappings":"AAAA,gBACI,WAAY,CACZ,WACJ","file":"main.6bb91547.chunk.css","sourcesContent":[".Image-list img{\r\n    margin: 10px;\r\n    width:250px;\r\n}\r\n"]}
